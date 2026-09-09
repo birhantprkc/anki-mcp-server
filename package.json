@@ -65,7 +65,7 @@
     "@nestjs/core": "^12.0.1",
     "@nestjs/microservices": "^12.0.1",
     "@nestjs/platform-express": "^12.0.1",
-    "@rekog/mcp-nest": "^2.0.2",
+    "@rekog/mcp-nest": "^2.0.5",
     "async-mutex": "^0.5.0",
     "commander": "^15.0.0",
     "ipaddr.js": "^2.5.0",
@@ -87,14 +87,14 @@
     "@anthropic-ai/mcpb": "^2.1.2",
     "@eslint/eslintrc": "^3.3.7",
     "@eslint/js": "^10.0.1",
-    "@modelcontextprotocol/inspector": "2.5.0",
+    "@modelcontextprotocol/inspector": "2.6.0",
     "@nestjs/cli": "^12.0.0",
     "@nestjs/schematics": "^12.0.0",
     "@nestjs/testing": "^12.0.1",
     "@types/express": "^5.0.6",
     "@types/jest": "^30.0.0",
     "@types/mdast": "^4.0.4",
-    "@types/node": "^26.4.1",
+    "@types/node": "^26.5.0",
     "@types/supertest": "^7.2.1",
     "@types/update-notifier": "^6.0.8",
     "@types/ws": "^8.18.1",
@@ -113,7 +113,7 @@
     "ts-node": "^10.9.2",
     "tsconfig-paths": "^4.2.0",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.69.0"
+    "typescript-eslint": "^8.70.0"
   },
   "jest": {
     "moduleFileExtensions": [
