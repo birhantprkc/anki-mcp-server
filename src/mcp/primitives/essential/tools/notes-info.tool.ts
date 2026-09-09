@@ -42,7 +42,7 @@ export class NotesInfoTool {
             z.object({ value: z.string(), order: z.number() }),
           ),
           cards: z.array(z.number()),
-          mod: z.number(),
+          mod: z.number().optional(),
         }),
       ),
       count: z.number(),

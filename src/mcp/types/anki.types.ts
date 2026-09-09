@@ -253,7 +253,7 @@ export interface NoteInfo {
   cards: number[];
 
   /** Modification timestamp (Unix timestamp in milliseconds) */
-  mod: number;
+  mod?: number;
 }
 
 /**
