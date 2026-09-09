@@ -11,6 +11,10 @@
         "--stdio"
       ],
       "env": {}
+    },
+    "claude-usage": {
+      "command": "npx",
+      "args": ["-y", "@anatoly314/claude-usage-mcp"]
     }
   }
 }
